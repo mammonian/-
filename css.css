@@ -1,0 +1,245 @@
+body{
+  position: absolute;
+ width: 1107px;
+ height: 720px;
+ left: 87px;
+ top: 0px;
+
+ background: #FAD0EC;
+}
+.main ul {
+    background: #fac5f2;
+    overflow: hidden;
+    padding: 0;
+  }
+  .main li {
+    float: left;
+  }
+  .main a {
+    display: block;
+    padding: 1em;
+    border-right: 1px solid #bb70b1;
+    background: rgba(196, 132, 187, 0.3);
+    color: #bd82b0;
+  }
+  .main a:hover {background: #ceadcb}
+h1 {
+  position: absolute;
+  width: 454px;
+  height: 33px;
+  left: 413px;
+  top: 196px;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.11em;
+
+  color: #411442;
+  }
+p {
+  position: absolute;
+  width: 1104px;
+  height: 34px;
+  left: 87px;
+  top: 102px;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.11em;
+
+  color: #411442;
+} 
+.as{
+  position: absolute;
+  width: 260px;
+  height: 218px;
+  left: 153px;
+  top: 265px;
+} 
+.as a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: url(japan-sweets.jpg);
+  border-radius: 24px;
+}
+.as a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 40.31%;
+  bottom: 39.8%;
+
+  background: rgba(251, 217, 237, 0.7);
+}
+.as p{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 45.41%;
+  bottom: 42.86%;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.11em;
+
+  color: #411442;
+}
+
+.am{
+  position: absolute;
+  width: 259px;
+  height: 218px;
+  left: 501px;
+  top: 265px;
+}
+.am a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: url(02_shutterstock_64249309.jpg);
+  border-radius: 24px;
+}
+.am a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 40.31%;
+  bottom: 39.8%;
+
+  background: rgba(251, 217, 237, 0.7);
+}
+.am p{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 45.41%;
+  bottom: 42.86%;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.11em;
+
+  color: #411442;
+}
+.eu{
+  position: absolute;
+  width: 259px;
+  height: 218px;
+  left: 848px;
+  top: 265px;
+}
+.eu a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: url(Yak-vidkryty-mahazyn-solodoshchiv-5.jpg);
+  border-radius: 24px;
+}
+.eu a{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 40.31%;
+  bottom: 39.8%;
+
+  background: rgba(251, 217, 237, 0.7);
+}
+.eu p{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 45.41%;
+  bottom: 42.86%;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.11em;
+
+  color: #411442;
+}
+footer{
+  position: absolute;
+  width: 1416px;
+  height: 331px;
+  left: -55px;
+  top: 467px;
+
+  position: absolute;
+  left: 7.2%;
+  right: 2.4%;
+  top: 30.82%;
+  bottom: 23.26%;
+
+  background: rgba(70, 50, 68, 0.85);
+}
+footer h3{
+  position: absolute;
+  left: 18.11%;
+  right: 18.49%;
+  top: 0%;
+  bottom: 7.95%;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+
+  color: #FB6DD3;
+
+}
+footer p{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+
+  color: #F3E6C4;
+
+}
